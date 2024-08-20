@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ExploreEcuador/static/css/main.0646d0ba.css",
+    "main.js": "/ExploreEcuador/static/js/main.4626c059.js",
+    "static/js/453.adf79e57.chunk.js": "/ExploreEcuador/static/js/453.adf79e57.chunk.js",
+    "static/media/Cuenca.jpg": "/ExploreEcuador/static/media/Cuenca.0d5dfc2b613223d5c026.jpg",
+    "static/media/Galapagos.jpg": "/ExploreEcuador/static/media/Galapagos.8e6f904ed1a3e6f7ae6a.jpg",
+    "static/media/quito.png": "/ExploreEcuador/static/media/quito.67391700a78a6d4a6097.png",
+    "static/media/flag.png": "/ExploreEcuador/static/media/flag.09f46219b787635c9b81.png",
+    "static/media/global-market.png": "/ExploreEcuador/static/media/global-market.df32b0a213f8d89a571c.png",
+    "index.html": "/ExploreEcuador/index.html",
+    "main.0646d0ba.css.map": "/ExploreEcuador/static/css/main.0646d0ba.css.map",
+    "main.4626c059.js.map": "/ExploreEcuador/static/js/main.4626c059.js.map",
+    "453.adf79e57.chunk.js.map": "/ExploreEcuador/static/js/453.adf79e57.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0646d0ba.css",
+    "static/js/main.4626c059.js"
+  ]
+}
